@@ -1,0 +1,43 @@
+
+#form{
+  background-color: #C70039  ;
+  display: table;
+  margin : auto auto ;
+  padding:  20px;
+  font-weight:  bold;
+  font-size: 20px;
+}
+#header{
+  background-color: #581845;
+  color: white;
+  float:top;
+}
+li{
+  display: inline-block;
+}
+.imglef{
+  float: left;
+}
+h1{
+
+font-family: 'Nanum Brush Script', cursive;
+font-style: italic;
+font-size: 60px;
+}
+.button{
+  background-color: #581845  ;
+  margin: 10 auto;
+  color: white;
+}
+
+.inputbox{
+  float:right;
+  color: white;
+}
+input{
+  background-color: #581845 ;
+  color: white;
+}
+body{
+  background-color: #900C3F;
+}
